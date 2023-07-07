@@ -1,0 +1,8 @@
+D:\Pemrograman C#\13\LatihanList2\LatihanList2\bin\Debug\LatihanList2.exe.config
+D:\Pemrograman C#\13\LatihanList2\LatihanList2\bin\Debug\LatihanList2.exe
+D:\Pemrograman C#\13\LatihanList2\LatihanList2\bin\Debug\LatihanList2.pdb
+D:\Pemrograman C#\13\LatihanList2\LatihanList2\obj\Debug\LatihanList2.csproj.AssemblyReference.cache
+D:\Pemrograman C#\13\LatihanList2\LatihanList2\obj\Debug\LatihanList2.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman C#\13\LatihanList2\LatihanList2\obj\Debug\LatihanList2.csproj.CoreCompileInputs.cache
+D:\Pemrograman C#\13\LatihanList2\LatihanList2\obj\Debug\LatihanList2.exe
+D:\Pemrograman C#\13\LatihanList2\LatihanList2\obj\Debug\LatihanList2.pdb
